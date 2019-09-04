@@ -1,0 +1,5 @@
+India is an under-represented country in Online world, lagging availability of many online resource.
+Here I have created a Indian dictionary for mapping a place to a location. 
+The file city_state_dictionary_28dec.py is the dictionary as python code.
+Use the dictionary useing the code get_state_from_location_field.py and get a state name for a given palce name.
+Also works well for noisy place names such as "bangalore dil me" or "in your heart patna".
